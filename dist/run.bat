@@ -1,0 +1,1 @@
+@java -cp "AxTool-1.0.0-jar-with-dependencies.jar;AxStackoverflow-1.0.0-jar-with-dependencies.jar" com.hazehorizon.ax.Ax %*
